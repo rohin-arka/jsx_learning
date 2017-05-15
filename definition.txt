@@ -1,0 +1,10 @@
+Learning resources:
+https://facebook.github.io/jsx/
+https://facebook.github.io/react/docs/jsx-in-depth.html
+https://jsx.github.io/doc/tutorial.html
+
+JSx stands for javascript XML
+JSx is static-typed language
+Static-typed language
+OOP language
+Boost Javascript Performance by inline expansion
